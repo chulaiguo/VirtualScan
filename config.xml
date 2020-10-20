@@ -25,7 +25,7 @@
 <plugin name="cordova-plugin-inappbrowser" />
 <plugin name="cordova-plugin-exit" />
 
-<plugin name="cordova-plugin-qr-barcode-scanner" >  
+<plugin name="cordova-plugin-qrscanner" >  
     <param name="CAMERA_USAGE_DESCRIPTION" value="To scan barcodes." />  
 </plugin> 
 
